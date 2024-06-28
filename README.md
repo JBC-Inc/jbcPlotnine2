@@ -192,7 +192,7 @@ Deployed as a Shiny for Python app. The training and scoring(test) plots
 are both graphed via plotnine.
 
 To view the completed plot visit this link: [2024 PLOTNINE
-CONTEST](https://kraggle.shinyapps.io/jcplotnine221/)
+CONTEST](https://kraggle.shinyapps.io/jbcplotnine221/)
 
 #### References
 
