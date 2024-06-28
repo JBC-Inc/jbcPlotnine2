@@ -1,0 +1,24 @@
+Package: jbcPlotnine2
+Title: Codebase for the POSIT 2024 PLOTNINE CONTEST
+Version: 1.0.0.0
+Authors@R: 
+    person("Jeff", "Craggy", , "craggyjeff@gmail.com", role = c("aut", "cre"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Multivariate Logistic Regression for Heart Attack Probability.
+    Data set taken from `Data Mining for the Masses, 3rd Edition`
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/JBC-Inc/jbcPlotnine2
+BugReports: https://github.com/JBC-Inc/jbcPlotnine2/issues
+Imports:
+    magick,
+    ransid,
+    shiny
+Suggests:
+    remotes (>= 2.5.0),
+    rsconnect,
+    tidyverse,
+    usethis
+Remotes:
+  r-lib/remotes
